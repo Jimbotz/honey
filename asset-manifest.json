@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/honey/static/css/main.b243c555.css",
-    "main.js": "/honey/static/js/main.edd634fb.js",
+    "main.css": "/honey/static/css/main.1c295b95.css",
+    "main.js": "/honey/static/js/main.a5133147.js",
     "static/js/787.bdd66879.chunk.js": "/honey/static/js/787.bdd66879.chunk.js",
     "static/media/us.png": "/honey/static/media/us.fbd62e150dc107f179dd.png",
     "static/media/heart.png": "/honey/static/media/heart.556c78a5a9b89d6b2eeb.png",
     "index.html": "/honey/index.html",
-    "main.b243c555.css.map": "/honey/static/css/main.b243c555.css.map",
-    "main.edd634fb.js.map": "/honey/static/js/main.edd634fb.js.map",
+    "main.1c295b95.css.map": "/honey/static/css/main.1c295b95.css.map",
+    "main.a5133147.js.map": "/honey/static/js/main.a5133147.js.map",
     "787.bdd66879.chunk.js.map": "/honey/static/js/787.bdd66879.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b243c555.css",
-    "static/js/main.edd634fb.js"
+    "static/css/main.1c295b95.css",
+    "static/js/main.a5133147.js"
   ]
 }
